@@ -11,11 +11,11 @@ export const Filters = {
 // Constante tipo Objeto que nos ayuda a almacenar las tareas, y la forma de filtara las tareas.
 const state = {
   todos: [
-    new Todo('Priedra del alma'),
-    new Todo('Priedra del espacio'),
-    new Todo('Priedra del poder'),
-    new Todo('Priedra del realidad'),
-    new Todo('Priedra del tiempo'),
+    // new Todo('Priedra del alma'),
+    // new Todo('Priedra del espacio'),
+    // new Todo('Priedra del poder'),
+    // new Todo('Priedra del realidad'),
+    // new Todo('Priedra del tiempo'),
   ],
   filter: Filters.All,
 };
